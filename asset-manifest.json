@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/scooters_kolt/static/css/main.c77abd19.css",
+    "main.js": "/scooters_kolt/static/js/main.8afb5b7d.js",
+    "index.html": "/scooters_kolt/index.html",
+    "main.c77abd19.css.map": "/scooters_kolt/static/css/main.c77abd19.css.map",
+    "main.8afb5b7d.js.map": "/scooters_kolt/static/js/main.8afb5b7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c77abd19.css",
+    "static/js/main.8afb5b7d.js"
+  ]
+}
